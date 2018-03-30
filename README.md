@@ -3,5 +3,5 @@
 ## Usage
 
 ```bash
-  gulp && npm start
+  npm test
 ```
